@@ -22,3 +22,8 @@ export enum AppType {
 	CHAT = 'chat',
 	PROCESS = 'process',
 }
+
+export enum ViewType {
+	TABLE = 'table',
+	CARD = 'card',
+}
